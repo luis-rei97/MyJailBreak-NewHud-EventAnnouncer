@@ -1,10 +1,10 @@
-<h1>New Custom HUD Event Announcer</h1>
+<h1>New Custom HUD Event Announcer for MyJailbreak</h1>
 
-An Event Announcer plugin for <u><b> CS:GO servers</b></u>, using the Source Mod Addon;
-This plugin requires <b>MyJailbreak</b> to work, since it is to be used with this plugin.
+<p>An Event Announcer plugin for <u><b> CS:GO servers</b></u>, using the Source Mod Addon;</p>
+<p>This plugin requires <b>MyJailbreak</b> to work, since it is to be used with this plugin.</p>
 
 
-Things that this connect message plugin has:
+Things that this event announcer plugin has:
 
 <ul>
 <li>It shows above the screen a message which event has been activated.</li>
